@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/130d502a-1e1d-400e-8ca2-ba3125fb5127" /># ARC Raiders Cheats — Advanced Control Suite for 2025 Gameplay
+# ARC Raiders Cheats — Advanced Control Suite for 2025 Gameplay
 
 A whisper of circuitry, a shimmer of battlefield intuition — this tool arrives not as a mere script collection, but as a crafted companion for those who stride into ARC Raiders with intent. Below you’ll find a fully-formed README styled for GitHub, rich with structure, diagrams, badges, and lyrical undertones, as requested.
 
