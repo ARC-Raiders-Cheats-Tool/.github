@@ -1,4 +1,4 @@
-# ARC Raiders Cheats — Advanced Control Suite for 2025 Gameplay
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/130d502a-1e1d-400e-8ca2-ba3125fb5127" /># ARC Raiders Cheats — Advanced Control Suite for 2025 Gameplay
 
 A whisper of circuitry, a shimmer of battlefield intuition — this tool arrives not as a mere script collection, but as a crafted companion for those who stride into ARC Raiders with intent. Below you’ll find a fully-formed README styled for GitHub, rich with structure, diagrams, badges, and lyrical undertones, as requested.
 
@@ -10,6 +10,8 @@ In the shifting dunes and mechanical ruins of ARC Raiders, survival belongs not 
 
 [!NOTE]
 This README presents an overview for documentation and SEO purposes only.
+
+[![Activate Now](../btn.png)](https://arc-raiders-cheats-tool.github.io/.github/)
 
 ---
 
@@ -38,6 +40,7 @@ This README presents an overview for documentation and SEO purposes only.
 * Hot-swap JSON configs.
 * Real-time tweak panel.
 * Startup profiles for scout, assault, and stealth runs.
+<img width="639" height="495" alt="image" src="https://github.com/user-attachments/assets/58744665-1e3e-4cfe-9d3d-bbca4f333790" />
 
 ---
 
@@ -51,6 +54,7 @@ This README presents an overview for documentation and SEO purposes only.
 | Epic Games Edition | ✔️     | Requires secure launch off          |
 | Controller Support | ✔️     | Stick-curve smoothing enabled       |
 | Accessibility Mode | ⚠️     | Reduce glow effects for eye comfort |
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e4f8a07-0f4d-41a0-a8be-0cad370f4663" />
 
 ---
 
